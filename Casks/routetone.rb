@@ -1,6 +1,6 @@
 cask "routetone" do
   version "0.1.1"
-  sha256 "eefc5c81fd393613e989b5eddae2ba729a32577671ad1fe755d29e413b92326a"
+  sha256 "52ae2516fafebdb78ab4195fa15fbc40ff94f42960983e4c7706540234f21ac7"
 
   url "https://github.com/kang-0909/RouteTone/releases/download/v#{version}/RouteTone-v#{version}.zip"
   name "RouteTone"
